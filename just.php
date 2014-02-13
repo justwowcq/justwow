@@ -1,4 +1,4 @@
-<?php
+<php
 
 define("TOKEN“, “justwow”);
 
@@ -58,4 +58,4 @@ return false;
 
 }
 
-?>
+>

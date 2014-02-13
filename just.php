@@ -1,6 +1,6 @@
 <?php
 
-define(“TOKEN”, “justwow”);
+define("TOKEN“, “justwow”);
 
 $wechatObj = new wechatCallbackapiTest();
 
